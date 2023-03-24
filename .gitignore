@@ -1,3 +1,4 @@
 .DS_Store
 node_modules
-build2
+build2/__mocks__
+build2/__tests__
